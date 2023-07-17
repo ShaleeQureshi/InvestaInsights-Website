@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/InvestaInsights-Website/static/css/main.aef3c8f9.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.c15e829d.js",
+    "main.js": "/InvestaInsights-Website/static/js/main.09f946c5.js",
     "index.html": "/InvestaInsights-Website/index.html",
     "main.aef3c8f9.css.map": "/InvestaInsights-Website/static/css/main.aef3c8f9.css.map",
-    "main.c15e829d.js.map": "/InvestaInsights-Website/static/js/main.c15e829d.js.map"
+    "main.09f946c5.js.map": "/InvestaInsights-Website/static/js/main.09f946c5.js.map"
   },
   "entrypoints": [
     "static/css/main.aef3c8f9.css",
-    "static/js/main.c15e829d.js"
+    "static/js/main.09f946c5.js"
   ]
 }
