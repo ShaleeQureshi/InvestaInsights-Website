@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/InvestaInsights-Website/static/css/main.8d78123d.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.ca422b3a.js",
+    "main.js": "/InvestaInsights-Website/static/js/main.24ff137b.js",
     "static/media/sky1.jpeg": "/InvestaInsights-Website/static/media/sky1.c11af9cd6ed10fd6e0e4.jpeg",
     "static/media/sky3.jpeg": "/InvestaInsights-Website/static/media/sky3.df3b70aa8b21ed5a1011.jpeg",
     "static/media/sky2.jpeg": "/InvestaInsights-Website/static/media/sky2.b21521889ab94da7d733.jpeg",
@@ -72,10 +72,10 @@
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
     "main.8d78123d.css.map": "/InvestaInsights-Website/static/css/main.8d78123d.css.map",
-    "main.ca422b3a.js.map": "/InvestaInsights-Website/static/js/main.ca422b3a.js.map"
+    "main.24ff137b.js.map": "/InvestaInsights-Website/static/js/main.24ff137b.js.map"
   },
   "entrypoints": [
     "static/css/main.8d78123d.css",
-    "static/js/main.ca422b3a.js"
+    "static/js/main.24ff137b.js"
   ]
 }
