@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/InvestaInsights-Website/static/css/main.8d78123d.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.716a0e5f.js",
+    "main.css": "/InvestaInsights-Website/static/css/main.16ee583e.css",
+    "main.js": "/InvestaInsights-Website/static/js/main.afe68f9a.js",
+    "static/media/img4.jpeg": "/InvestaInsights-Website/static/media/img4.20de30c3a5dafb5a7f7b.jpeg",
+    "static/media/img1.jpeg": "/InvestaInsights-Website/static/media/img1.b30607c99978117d662d.jpeg",
     "static/media/sky1.jpeg": "/InvestaInsights-Website/static/media/sky1.c11af9cd6ed10fd6e0e4.jpeg",
+    "static/media/img2.webp": "/InvestaInsights-Website/static/media/img2.31e35372c6297c24a036.webp",
     "static/media/sky3.jpeg": "/InvestaInsights-Website/static/media/sky3.df3b70aa8b21ed5a1011.jpeg",
     "static/media/sky2.jpeg": "/InvestaInsights-Website/static/media/sky2.b21521889ab94da7d733.jpeg",
-    "static/media/Roboto-Italic.ttf": "/InvestaInsights-Website/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
-    "static/media/Roboto-Regular.ttf": "/InvestaInsights-Website/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "static/media/Roboto-Bold.ttf": "/InvestaInsights-Website/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
-    "static/media/Roboto-Light.ttf": "/InvestaInsights-Website/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/img3.jpeg": "/InvestaInsights-Website/static/media/img3.5dbcea511940f4c4355e.jpeg",
+    "static/media/DINNextW1G-Regular.otf": "/InvestaInsights-Website/static/media/DINNextW1G-Regular.0f881dc0f74d2acff569.otf",
     "static/media/ori_erlich.jpeg": "/InvestaInsights-Website/static/media/ori_erlich.317ee5415bda577950ed.jpeg",
+    "static/media/DINNextW1G-Light.otf": "/InvestaInsights-Website/static/media/DINNextW1G-Light.81028e7f96ea99f6305b.otf",
+    "static/media/DINNextW1G-Italic.otf": "/InvestaInsights-Website/static/media/DINNextW1G-Italic.9c7c8a5a74e7d7291c10.otf",
+    "static/media/DINNextW1G-Bold.otf": "/InvestaInsights-Website/static/media/DINNextW1G-Bold.eb2cd2cc0b73461cce1e.otf",
     "static/media/andy_shuai.jpeg": "/InvestaInsights-Website/static/media/andy_shuai.33ed8a42cfcb608d9a79.jpeg",
     "static/media/charlotte_mckenzie.jpeg": "/InvestaInsights-Website/static/media/charlotte_mckenzie.88dab8da2308e0465ff5.jpeg",
     "static/media/lauren_macdonald.jpeg": "/InvestaInsights-Website/static/media/lauren_macdonald.7be0f3e8a633b3c7fdf8.jpeg",
@@ -32,9 +36,7 @@
     "static/media/bmo_edited.webp": "/InvestaInsights-Website/static/media/bmo_edited.1ab62e97ca4909ec6d1d.webp",
     "static/media/download-2.webp": "/InvestaInsights-Website/static/media/download-2.a65945fd6407358ceb1c.webp",
     "static/media/rbc-logo-preview_edited.webp": "/InvestaInsights-Website/static/media/rbc-logo-preview_edited.93b67e8aec00eef3acc5.webp",
-    "static/media/318562494___n_edited.webp": "/InvestaInsights-Website/static/media/318562494_10160100437924774_7897668283214412414_n_edited.baf7f1de58ed6295e2f6.webp",
     "static/media/logo-paradigm-dark.webp": "/InvestaInsights-Website/static/media/logo-paradigm-dark.292c0a2bac02d7894e93.webp",
-    "static/media/wilfrid-laurier_edited.webp": "/InvestaInsights-Website/static/media/wilfrid-laurier_edited.0816ca13ef50e01b64a4.webp",
     "static/media/Utoronto_coa_edited_edited.webp": "/InvestaInsights-Website/static/media/Utoronto_coa_edited_edited.97a0433d7823a44d2374.webp",
     "static/media/investalogo.webp": "/InvestaInsights-Website/static/media/investalogo.0ded088e9d61c8421a8b.webp",
     "static/media/scotia_edited.webp": "/InvestaInsights-Website/static/media/scotia_edited.1c1f3a5f00870ee361af.webp",
@@ -59,23 +61,21 @@
     "static/media/Deloitte_Logo.webp": "/InvestaInsights-Website/static/media/Deloitte_Logo.11ee12f8c9035c0b464b.webp",
     "static/media/nomura-logo_edited.webp": "/InvestaInsights-Website/static/media/nomura-logo_edited.de6ddaf1174107850e82.webp",
     "static/media/1567038128434-2.webp": "/InvestaInsights-Website/static/media/1567038128434-2.9796dd66949c2aa733d1.webp",
-    "static/media/updated_logo_0.webp": "/InvestaInsights-Website/static/media/updated_logo_0.fd4406f413f756af58be.webp",
     "static/media/manulife-logo-png-transparent_edited.webp": "/InvestaInsights-Website/static/media/manulife-logo-png-transparent_edited.b57815bb648adb4cf73e.webp",
     "static/media/td-bank-1-logo-png-transparent-1.webp": "/InvestaInsights-Website/static/media/td-bank-1-logo-png-transparent-1.40dfa48494aa6cd99fe8.webp",
     "static/media/public_2e25ec30-b2b2-42b4-9569-c5fd00ef7f20_image.webp": "/InvestaInsights-Website/static/media/public_2e25ec30-b2b2-42b4-9569-c5fd00ef7f20_image.45068dad9d19040a2a74.webp",
     "static/media/download.webp": "/InvestaInsights-Website/static/media/download.09ce1af57b4863de43a4.webp",
-    "static/media/McMaster_edited.webp": "/InvestaInsights-Website/static/media/McMaster_edited.a2d4fa3d2f7c245562c5.webp",
     "static/media/Novacap_Management_Inc__Novacap_Announces_Final_Closing_of_Canad.webp": "/InvestaInsights-Website/static/media/Novacap_Management_Inc__Novacap_Announces_Final_Closing_of_Canad.65c9c28df7b7651669b4.webp",
     "static/media/Evercore_logo.webp": "/InvestaInsights-Website/static/media/Evercore_logo.bada3e03c8e4488e45d4.webp",
     "static/media/Canada_Pension_Plan_Investment_Board_CPP_Investments_and_LOGOS_E.webp": "/InvestaInsights-Website/static/media/Canada_Pension_Plan_Investment_Board_CPP_Investments_and_LOGOS_E.9743b1868494e545a2ff.webp",
     "static/media/pimco_BIG-2cb9dc8b.webp": "/InvestaInsights-Website/static/media/pimco_BIG-2cb9dc8b.a410f992c667da476956.webp",
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
-    "main.8d78123d.css.map": "/InvestaInsights-Website/static/css/main.8d78123d.css.map",
-    "main.716a0e5f.js.map": "/InvestaInsights-Website/static/js/main.716a0e5f.js.map"
+    "main.16ee583e.css.map": "/InvestaInsights-Website/static/css/main.16ee583e.css.map",
+    "main.afe68f9a.js.map": "/InvestaInsights-Website/static/js/main.afe68f9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d78123d.css",
-    "static/js/main.716a0e5f.js"
+    "static/css/main.16ee583e.css",
+    "static/js/main.afe68f9a.js"
   ]
 }
