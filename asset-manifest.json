@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InvestaInsights-Website/static/css/main.160d9c96.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.193012bb.js",
+    "main.css": "/InvestaInsights-Website/static/css/main.0d9796ed.css",
+    "main.js": "/InvestaInsights-Website/static/js/main.ba98d70d.js",
     "static/media/COVID-19's Impact on US Airlines - vF.pdf": "/InvestaInsights-Website/static/media/COVID-19's Impact on US Airlines - vF.0315c8939c7f966cf1df.pdf",
     "static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.3af745f4295ee0ddb56a.pdf",
     "static/media/Healthcare-Pitch-Schulich-1 2.pdf": "/InvestaInsights-Website/static/media/Healthcare-Pitch-Schulich-1 2.800819aa4d2b25e00a9b.pdf",
@@ -126,6 +126,7 @@
     "static/media/DINNextW1G-Italic.otf": "/InvestaInsights-Website/static/media/DINNextW1G-Italic.9c7c8a5a74e7d7291c10.otf",
     "static/media/DINNextW1G-Bold.otf": "/InvestaInsights-Website/static/media/DINNextW1G-Bold.eb2cd2cc0b73461cce1e.otf",
     "static/media/mergers_header.jpeg": "/InvestaInsights-Website/static/media/mergers_header.c1a26b6b8b028f8e6b4e.jpeg",
+    "static/media/westin.webp": "/InvestaInsights-Website/static/media/westin.2dd081e4130b69bfbb76.webp",
     "static/media/andy_shuai.jpeg": "/InvestaInsights-Website/static/media/andy_shuai.33ed8a42cfcb608d9a79.jpeg",
     "static/media/media_header.jpeg": "/InvestaInsights-Website/static/media/media_header.1201924c0a08008b5664.jpeg",
     "static/media/canadian_power_utilities.jpg": "/InvestaInsights-Website/static/media/canadian_power_utilities.d0f3c73e73368d9a5c0b.jpg",
@@ -133,11 +134,15 @@
     "static/media/lauren_macdonald.jpeg": "/InvestaInsights-Website/static/media/lauren_macdonald.7be0f3e8a633b3c7fdf8.jpeg",
     "static/media/adt_sec.jpeg": "/InvestaInsights-Website/static/media/adt_sec.c11a2ac223b63c74ce1b.jpeg",
     "static/media/danielle_dobbs.jpeg": "/InvestaInsights-Website/static/media/danielle_dobbs.5d97ecb53f4877f15fc6.jpeg",
+    "static/media/dina_sayed.jpeg": "/InvestaInsights-Website/static/media/dina_sayed.b9a8d3b98cb86256ae3a.jpeg",
+    "static/media/shelly_qian.jpeg": "/InvestaInsights-Website/static/media/shelly_qian.04a865fc3c0d8bb29415.jpeg",
     "static/media/cannabis_image.avif": "/InvestaInsights-Website/static/media/cannabis_image.34ef50ea2113bc476334.avif",
     "static/media/shahrukh_qureshi.jpeg": "/InvestaInsights-Website/static/media/shahrukh_qureshi.a1acb8725895edec7570.jpeg",
     "static/media/jackson_pickup.jpeg": "/InvestaInsights-Website/static/media/jackson_pickup.b9caccb7d26fc98665e8.jpeg",
     "static/media/sophia_cape.jpeg": "/InvestaInsights-Website/static/media/sophia_cape.03a5e60981b19318424e.jpeg",
     "static/media/jonathan_wang.jpeg": "/InvestaInsights-Website/static/media/jonathan_wang.2cfa2f43b079178b496e.jpeg",
+    "static/media/jacob_levy.jpeg": "/InvestaInsights-Website/static/media/jacob_levy.e4c9ffe3aa6d140f224a.jpeg",
+    "static/media/michael_duncan.jpeg": "/InvestaInsights-Website/static/media/michael_duncan.170dfcde60457ade011e.jpeg",
     "static/media/isaac_dong.jpeg": "/InvestaInsights-Website/static/media/isaac_dong.b496a6092ca954ff6aab.jpeg",
     "static/media/matthew_darroch.jpeg": "/InvestaInsights-Website/static/media/matthew_darroch.36db1a2145f044f990f3.jpeg",
     "static/media/breaking_into_wall_street.webp": "/InvestaInsights-Website/static/media/breaking_into_wall_street.e7333f2447048a7b560a.webp",
@@ -187,11 +192,11 @@
     "static/media/pimco_BIG-2cb9dc8b.webp": "/InvestaInsights-Website/static/media/pimco_BIG-2cb9dc8b.a410f992c667da476956.webp",
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
-    "main.160d9c96.css.map": "/InvestaInsights-Website/static/css/main.160d9c96.css.map",
-    "main.193012bb.js.map": "/InvestaInsights-Website/static/js/main.193012bb.js.map"
+    "main.0d9796ed.css.map": "/InvestaInsights-Website/static/css/main.0d9796ed.css.map",
+    "main.ba98d70d.js.map": "/InvestaInsights-Website/static/js/main.ba98d70d.js.map"
   },
   "entrypoints": [
-    "static/css/main.160d9c96.css",
-    "static/js/main.193012bb.js"
+    "static/css/main.0d9796ed.css",
+    "static/js/main.ba98d70d.js"
   ]
 }
