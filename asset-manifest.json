@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InvestaInsights-Website/static/css/main.0d9796ed.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.a01f5b4b.js",
+    "main.css": "/InvestaInsights-Website/static/css/main.aa16b8a3.css",
+    "main.js": "/InvestaInsights-Website/static/js/main.df781aed.js",
     "static/media/COVID-19's Impact on US Airlines - vF.pdf": "/InvestaInsights-Website/static/media/COVID-19's Impact on US Airlines - vF.0315c8939c7f966cf1df.pdf",
     "static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.3af745f4295ee0ddb56a.pdf",
     "static/media/Healthcare-Pitch-Schulich-1 2.pdf": "/InvestaInsights-Website/static/media/Healthcare-Pitch-Schulich-1 2.800819aa4d2b25e00a9b.pdf",
@@ -192,11 +192,11 @@
     "static/media/pimco_BIG-2cb9dc8b.webp": "/InvestaInsights-Website/static/media/pimco_BIG-2cb9dc8b.a410f992c667da476956.webp",
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
-    "main.0d9796ed.css.map": "/InvestaInsights-Website/static/css/main.0d9796ed.css.map",
-    "main.a01f5b4b.js.map": "/InvestaInsights-Website/static/js/main.a01f5b4b.js.map"
+    "main.aa16b8a3.css.map": "/InvestaInsights-Website/static/css/main.aa16b8a3.css.map",
+    "main.df781aed.js.map": "/InvestaInsights-Website/static/js/main.df781aed.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d9796ed.css",
-    "static/js/main.a01f5b4b.js"
+    "static/css/main.aa16b8a3.css",
+    "static/js/main.df781aed.js"
   ]
 }
