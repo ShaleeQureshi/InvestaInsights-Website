@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/InvestaInsights-Website/static/css/main.bf829cab.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.db3d952d.js",
+    "main.js": "/InvestaInsights-Website/static/js/main.ce53dd70.js",
     "static/media/COVID-19's Impact on US Airlines - vF.pdf": "/InvestaInsights-Website/static/media/COVID-19's Impact on US Airlines - vF.0315c8939c7f966cf1df.pdf",
     "static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.3af745f4295ee0ddb56a.pdf",
     "static/media/Healthcare-Pitch-Schulich-1 2.pdf": "/InvestaInsights-Website/static/media/Healthcare-Pitch-Schulich-1 2.800819aa4d2b25e00a9b.pdf",
@@ -54,6 +54,7 @@
     "static/media/sport_ent.png": "/InvestaInsights-Website/static/media/sport_ent.ad2a087a2dd02371e453.png",
     "static/media/mcdonalds.png": "/InvestaInsights-Website/static/media/mcdonalds.453ba2787b99199040ed.png",
     "static/media/canadian_energy_report.png": "/InvestaInsights-Website/static/media/canadian_energy_report.72ea3c38af9463b1335f.png",
+    "static/media/Investa-Analyst-Package.pdf": "/InvestaInsights-Website/static/media/Investa-Analyst-Package.97dbce4077d926444bed.pdf",
     "static/media/tech.png": "/InvestaInsights-Website/static/media/tech.394a77a80aa7434f3f07.png",
     "static/media/space.png": "/InvestaInsights-Website/static/media/space.ffd4c243014a39bf6dea.png",
     "static/media/Market-Research-Report-Canadian-Financial-Institutions.pdf": "/InvestaInsights-Website/static/media/Market-Research-Report-Canadian-Financial-Institutions.5a593c2db03002813e34.pdf",
@@ -220,10 +221,10 @@
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
     "main.bf829cab.css.map": "/InvestaInsights-Website/static/css/main.bf829cab.css.map",
-    "main.db3d952d.js.map": "/InvestaInsights-Website/static/js/main.db3d952d.js.map"
+    "main.ce53dd70.js.map": "/InvestaInsights-Website/static/js/main.ce53dd70.js.map"
   },
   "entrypoints": [
     "static/css/main.bf829cab.css",
-    "static/js/main.db3d952d.js"
+    "static/js/main.ce53dd70.js"
   ]
 }
