@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InvestaInsights-Website/static/css/main.bf829cab.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.ce53dd70.js",
+    "main.css": "/InvestaInsights-Website/static/css/main.dc57e1ec.css",
+    "main.js": "/InvestaInsights-Website/static/js/main.0aa91cd7.js",
     "static/media/COVID-19's Impact on US Airlines - vF.pdf": "/InvestaInsights-Website/static/media/COVID-19's Impact on US Airlines - vF.0315c8939c7f966cf1df.pdf",
     "static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.3af745f4295ee0ddb56a.pdf",
     "static/media/Healthcare-Pitch-Schulich-1 2.pdf": "/InvestaInsights-Website/static/media/Healthcare-Pitch-Schulich-1 2.800819aa4d2b25e00a9b.pdf",
@@ -62,7 +62,7 @@
     "static/media/us_videogame.png": "/InvestaInsights-Website/static/media/us_videogame.ce9f1f07e38be557d12f.png",
     "static/media/mergers.png": "/InvestaInsights-Website/static/media/mergers.6238546d19d535836447.png",
     "static/media/casino.png": "/InvestaInsights-Website/static/media/casino.480fa790f22f5c004c17.png",
-    "static/media/img3.jpeg": "/InvestaInsights-Website/static/media/img3.5dbcea511940f4c4355e.jpeg",
+    "static/media/img3.jpeg": "/InvestaInsights-Website/static/media/img3.bfb8861dd286ac3f40c9.jpeg",
     "static/media/LAMB_WESTON.png": "/InvestaInsights-Website/static/media/LAMB_WESTON.a73b0f820705b4b79848.png",
     "static/media/Canadian Energy Report - Investa Insights - CAD Portfolio.pdf": "/InvestaInsights-Website/static/media/Canadian Energy Report - Investa Insights - CAD Portfolio.2d76d9a10b9624ad8015.pdf",
     "static/media/space_travel.png": "/InvestaInsights-Website/static/media/space_travel.a754a6f924a5e1c58c6c.png",
@@ -113,7 +113,7 @@
     "static/media/Investa-Insights-UBC-HRX-Stokc-Pitch - Alexander Kinnaird.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-UBC-HRX-Stokc-Pitch - Alexander Kinnaird.b0bfbb01de21ea276a19.pdf",
     "static/media/Investa-Insights-TCP-Queens (1).pdf": "/InvestaInsights-Website/static/media/Investa-Insights-TCP-Queens (1).9799f4c361ef38d5f926.pdf",
     "static/media/media_sector.png": "/InvestaInsights-Website/static/media/media_sector.61a6fb14ea2d747787ff.png",
-    "static/media/img1.jpeg": "/InvestaInsights-Website/static/media/img1.b30607c99978117d662d.jpeg",
+    "static/media/img1.jpeg": "/InvestaInsights-Website/static/media/img1.5222119135b3308ed99d.jpeg",
     "static/media/Investa-Insights-Transaction-Analysis-UBC.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-Transaction-Analysis-UBC.0a47e38581505d696654.pdf",
     "static/media/Canadian Telecommunication Market Research Report.pdf": "/InvestaInsights-Website/static/media/Canadian Telecommunication Market Research Report.45d5b6965030a0dbf44f.pdf",
     "static/media/morgan_header.jpeg": "/InvestaInsights-Website/static/media/morgan_header.44b5e7d72d00eec838af.jpeg",
@@ -144,6 +144,7 @@
     "static/media/lauren_macdonald.jpeg": "/InvestaInsights-Website/static/media/lauren_macdonald.7be0f3e8a633b3c7fdf8.jpeg",
     "static/media/Sean_Spencer_Headshot - Sean Spencer.jpeg": "/InvestaInsights-Website/static/media/Sean_Spencer_Headshot - Sean Spencer.a79ed9fb142772f1260e.jpeg",
     "static/media/Magnus_Petursson_Fall2022 - Magnus Petursson.jpeg": "/InvestaInsights-Website/static/media/Magnus_Petursson_Fall2022 - Magnus Petursson.a903a57caa692fcafeda.jpeg",
+    "static/media/img2.jpeg": "/InvestaInsights-Website/static/media/img2.f3d3186075182d07a6c4.jpeg",
     "static/media/murtaza_husain.jpeg": "/InvestaInsights-Website/static/media/murtaza_husain.4093121cab21e2c00a78.jpeg",
     "static/media/kathleen_huang.jpeg": "/InvestaInsights-Website/static/media/kathleen_huang.c6e4a347984413968944.jpeg",
     "static/media/saharsh_sur.jpeg": "/InvestaInsights-Website/static/media/saharsh_sur.b2a42d9da18fa455b44e.jpeg",
@@ -220,11 +221,11 @@
     "static/media/pimco_BIG-2cb9dc8b.webp": "/InvestaInsights-Website/static/media/pimco_BIG-2cb9dc8b.a410f992c667da476956.webp",
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
-    "main.bf829cab.css.map": "/InvestaInsights-Website/static/css/main.bf829cab.css.map",
-    "main.ce53dd70.js.map": "/InvestaInsights-Website/static/js/main.ce53dd70.js.map"
+    "main.dc57e1ec.css.map": "/InvestaInsights-Website/static/css/main.dc57e1ec.css.map",
+    "main.0aa91cd7.js.map": "/InvestaInsights-Website/static/js/main.0aa91cd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf829cab.css",
-    "static/js/main.ce53dd70.js"
+    "static/css/main.dc57e1ec.css",
+    "static/js/main.0aa91cd7.js"
   ]
 }
