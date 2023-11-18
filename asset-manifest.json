@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InvestaInsights-Website/static/css/main.dc57e1ec.css",
-    "main.js": "/InvestaInsights-Website/static/js/main.0aa91cd7.js",
+    "main.css": "/InvestaInsights-Website/static/css/main.a881681f.css",
+    "main.js": "/InvestaInsights-Website/static/js/main.841b66e4.js",
     "static/media/COVID-19's Impact on US Airlines - vF.pdf": "/InvestaInsights-Website/static/media/COVID-19's Impact on US Airlines - vF.0315c8939c7f966cf1df.pdf",
     "static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.pdf": "/InvestaInsights-Website/static/media/Investa-Insights-McMaster-STZ-Stock-Pitch - Jeffrey Howson.3af745f4295ee0ddb56a.pdf",
     "static/media/Healthcare-Pitch-Schulich-1 2.pdf": "/InvestaInsights-Website/static/media/Healthcare-Pitch-Schulich-1 2.800819aa4d2b25e00a9b.pdf",
@@ -136,6 +136,7 @@
     "static/media/media_header.jpeg": "/InvestaInsights-Website/static/media/media_header.1201924c0a08008b5664.jpeg",
     "static/media/canadian_power_utilities.jpg": "/InvestaInsights-Website/static/media/canadian_power_utilities.d0f3c73e73368d9a5c0b.jpg",
     "static/media/connor.jpeg": "/InvestaInsights-Website/static/media/connor.1ca20a15b437cffd355f.jpeg",
+    "static/media/goldman-sachs-logo-png-transparent.png": "/InvestaInsights-Website/static/media/goldman-sachs-logo-png-transparent.749bb5e3e374af85b060.png",
     "static/media/Carter Jones-Robinson Headshot 2022 - Carter Jones-Robinson.jpeg": "/InvestaInsights-Website/static/media/Carter Jones-Robinson Headshot 2022 - Carter Jones-Robinson.74e48ff21a2c35115b90.jpeg",
     "static/media/charlotte_mckenzie.jpeg": "/InvestaInsights-Website/static/media/charlotte_mckenzie.88dab8da2308e0465ff5.jpeg",
     "static/media/Christopher_Lappas_Fall2022 - Christopher Lappas.jpeg": "/InvestaInsights-Website/static/media/Christopher_Lappas_Fall2022 - Christopher Lappas.027d2455e7014566cdbe.jpeg",
@@ -146,6 +147,7 @@
     "static/media/Magnus_Petursson_Fall2022 - Magnus Petursson.jpeg": "/InvestaInsights-Website/static/media/Magnus_Petursson_Fall2022 - Magnus Petursson.a903a57caa692fcafeda.jpeg",
     "static/media/img2.jpeg": "/InvestaInsights-Website/static/media/img2.f3d3186075182d07a6c4.jpeg",
     "static/media/murtaza_husain.jpeg": "/InvestaInsights-Website/static/media/murtaza_husain.4093121cab21e2c00a78.jpeg",
+    "static/media/Citi.svg.png": "/InvestaInsights-Website/static/media/Citi.svg.4ada3119b269f1f40ec2.png",
     "static/media/kathleen_huang.jpeg": "/InvestaInsights-Website/static/media/kathleen_huang.c6e4a347984413968944.jpeg",
     "static/media/saharsh_sur.jpeg": "/InvestaInsights-Website/static/media/saharsh_sur.b2a42d9da18fa455b44e.jpeg",
     "static/media/adt_sec.jpeg": "/InvestaInsights-Website/static/media/adt_sec.c11a2ac223b63c74ce1b.jpeg",
@@ -166,8 +168,10 @@
     "static/media/primers_1.png": "/InvestaInsights-Website/static/media/primers_1.e1a259c51a9456da8ddb.png",
     "static/media/jacob_levy.jpeg": "/InvestaInsights-Website/static/media/jacob_levy.e4c9ffe3aa6d140f224a.jpeg",
     "static/media/satyajit.jpeg": "/InvestaInsights-Website/static/media/satyajit.2f98c466c2c3a5563567.jpeg",
+    "static/media/Bank-of-America-Emblem.png": "/InvestaInsights-Website/static/media/Bank-of-America-Emblem.b3e972c2bc87ffbc9693.png",
     "static/media/michael_duncan.jpeg": "/InvestaInsights-Website/static/media/michael_duncan.170dfcde60457ade011e.jpeg",
     "static/media/avisowealth.png": "/InvestaInsights-Website/static/media/avisowealth.8f3278d6918893f17aae.png",
+    "static/media/JP-Morgan-Chase-Emblem.png": "/InvestaInsights-Website/static/media/JP-Morgan-Chase-Emblem.b7f5f445b5957b98dda4.png",
     "static/media/OTPP.png": "/InvestaInsights-Website/static/media/OTPP.47e0f94fc20cb7efb8db.png",
     "static/media/interview_1.png": "/InvestaInsights-Website/static/media/interview_1.c6a903a51860db9e39da.png",
     "static/media/Joshua Hampel - Headshot - Joshua Hampel.jpg": "/InvestaInsights-Website/static/media/Joshua Hampel - Headshot - Joshua Hampel.4e75347e8ffafe24d6f2.jpg",
@@ -177,6 +181,7 @@
     "static/media/wall_street_oasis.webp": "/InvestaInsights-Website/static/media/wall_street_oasis.aa7b3ae10b136e632f65.webp",
     "static/media/otpp_edited.webp": "/InvestaInsights-Website/static/media/otpp_edited.3313a166e1494a772646.webp",
     "static/media/financial_interview_coach.webp": "/InvestaInsights-Website/static/media/financial_interview_coach.a8f29f271e9c2cc74d86.webp",
+    "static/media/512x512_Logo.webp": "/InvestaInsights-Website/static/media/512x512_Logo.af123e2d26223cff66ef.webp",
     "static/media/1200px-McGill_University_CoA_edited_edit.webp": "/InvestaInsights-Website/static/media/1200px-McGill_University_CoA_edited_edit.4603c345e9b97e8ddb53.webp",
     "static/media/Western_University_Canada_logo_edited_pn.webp": "/InvestaInsights-Website/static/media/Western_University_Canada_logo_edited_pn.9114837a7c8f535a204d.webp",
     "static/media/QueensLogo_black.webp": "/InvestaInsights-Website/static/media/QueensLogo_black.5ba58d4a4abaca690b48.webp",
@@ -221,11 +226,11 @@
     "static/media/pimco_BIG-2cb9dc8b.webp": "/InvestaInsights-Website/static/media/pimco_BIG-2cb9dc8b.a410f992c667da476956.webp",
     "static/media/York-Logo-Vertical_edited_edited.webp": "/InvestaInsights-Website/static/media/York-Logo-Vertical_edited_edited.331d1bfbd6cfa0155616.webp",
     "index.html": "/InvestaInsights-Website/index.html",
-    "main.dc57e1ec.css.map": "/InvestaInsights-Website/static/css/main.dc57e1ec.css.map",
-    "main.0aa91cd7.js.map": "/InvestaInsights-Website/static/js/main.0aa91cd7.js.map"
+    "main.a881681f.css.map": "/InvestaInsights-Website/static/css/main.a881681f.css.map",
+    "main.841b66e4.js.map": "/InvestaInsights-Website/static/js/main.841b66e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc57e1ec.css",
-    "static/js/main.0aa91cd7.js"
+    "static/css/main.a881681f.css",
+    "static/js/main.841b66e4.js"
   ]
 }
