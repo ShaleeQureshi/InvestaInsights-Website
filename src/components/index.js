@@ -1,1 +1,9 @@
 export { default as Footer } from "./footer";
+export { default as Jumbo } from "./jumbotron";
+export { default as InvestaNav } from "./investa-nav";
+export { default as CustomBox } from "./custom_box";
+export { default as CustomBox_NoImg_Button } from "./custom_box_no_img_button";
+export { default as CustomBox_OnlyImg } from "./custom_box_only_img";
+export { default as Custom_Carousel } from "./custom_carousel";
+export { default as CustomBoxClickable } from "./custom_box_clickable";
+export { default as ImageWithButton } from "./image_with_button";

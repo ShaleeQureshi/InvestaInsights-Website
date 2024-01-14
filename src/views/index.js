@@ -1,2 +1,13 @@
-export { default as Login_Page } from "./login";
+export { default as Member_Login_Page } from "./member-login";
 export { default as Member_Resources_Pages } from "./member-resources";
+export { default as Login_Error_Page } from "./login_error_page";
+export { default as Our_Portfolio } from "./our_portfolio";
+export { default as Home_Page } from "./home_page";
+export { default as Teams_Page } from "./teams_page";
+export { default as Stock_Pitches_Page } from "./stock_pitches_page";
+export { default as Market_Research_Page } from "./market_research_page";
+export { default as Transactional_Analysis_Page } from "./transactional_analysis_page";
+export { default as Admin_Page } from "./admin_page";
+export { default as Events_Page } from "./events_page";
+export { default as Sponsor_Page } from "./sponsor_page";
+export { default as User_Form } from "./user_form";

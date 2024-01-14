@@ -8,4 +8,557 @@
     font-size: 11px;
     width: 500px;
   }
+  .shahrukh-signature {
+    font-size: large;
+    text-decoration: none;
+    color: white;
+    opacity: 0.5;
+  }
+  #shahrukh-signature-underline {
+    width: 50%;
+    border: 2px solid aliceblue;
+    opacity: 0.75;
+    margin: auto;
+  }
+}
+
+h1 {
+  font-family: Din-Regular;
+  color: white;
+}
+
+.jumbo {
+  min-width: 100vw;
+  min-height: 20vh;
+  background-color: #0e092b;
+  #jumbo-container {
+    padding-left: 10%;
+  }
+}
+
+.member-resources-page {
+  .mrp-jumbo {
+    p {
+      font-family: Din-Light;
+      color: rgb(141, 140, 140);
+    }
+    margin-right: 17%;
+    margin-left: 7%;
+    #span {
+      color: red;
+      text-decoration: underline;
+      font-family: Din-Italic;
+    }
+  }
+}
+
+.box-shadow-list-teams-banners-resources {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 300px;
+  height: 250px;
+  img {
+    width: 200px;
+    height: 150px;
+    padding-bottom: 10px;
+  }
+  .investa-resources-img {
+    margin-top: -20%;
+  }
+}
+.clickable-box-resources {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #0e092b;
+  h4 {
+    font-family: Din-Bold;
+  }
+  border-radius: 25px;
+}
+.clickable-box-resources:hover {
+  background-color: white;
+  color: black;
+}
+
+.resources-card {
+  width: 500px;
+  height: 200px;
+  img {
+    width: 100%;
+    height: 200px;
+  }
+}
+.resources-card:hover {
+  img {
+    opacity: 0.5;
+  }
+}
+
+.files {
+  background-color: aliceblue;
+  border-radius: 20px;
+}
+
+.investa-nav {
+  background-color: #0e092b;
+  padding-left: 10px;
+  padding-right: 10px;
+  a {
+    color: white;
+  }
+  font-family: Din-Light;
+}
+
+.carousel {
+  img {
+    height: 20vh;
+  }
+}
+
+.din-light {
+  font-family: Din-Light;
+}
+
+.home-page {
+  .jumbo-home {
+    padding-bottom: 20px;
+    margin-right: 17%;
+    margin-left: 7%;
+    p {
+      font-family: Din-Light;
+      color: white;
+    }
+    h3 {
+      font-family: Din-Regular;
+      color: white;
+    }
+  }
+  h3 {
+    font-family: Din-Regular;
+  }
+}
+
+.portfolio-page {
+  .image-port {
+    height: 500px;
+    width: auto;
+    max-width: 100%;
+  }
+  .image-stocks-overlay {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+  }
+  .image-stocks-overlay::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(22, 22, 81, 0.5); /* Blue with 50% opacity */
+    pointer-events: none;
+  }
+  .stock-overlay {
+    position: absolute;
+    top: 50%; /* Adjust vertical positioning as needed */
+    left: 50%; /* Adjust horizontal positioning as needed */
+    transform: translate(-50%, -50%); /* Center the text */
+  }
+  .stock-overlay h1 {
+    color: white; /* Text color */
+    font-family: Din-Bold;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow */
+  }
+}
+
+.box-shadow-list {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 250px;
+  height: 270px;
+}
+.list-items {
+  padding: 80px 25px;
+  h4 {
+    font-size: 23px;
+  }
+  p {
+    font-size: 13px;
+  }
+}
+
+.box-shadow-list-what-we-do {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 400px;
+  height: 300px;
+  padding: 80px 25px;
+  h4 {
+    font-size: 23px;
+  }
+  p {
+    font-size: 13px;
+  }
+}
+
+.placements {
+  h3 {
+    color: white;
+  }
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: #0e092b;
+  clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+
+.alumni-testimonials {
+  h3 {
+    color: white;
+  }
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: #0e092b;
+  clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+}
+
+.box-shadow-list-placements {
+  background-color: white;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 180px;
+  height: 150px;
+  img {
+    width: 95px;
+    height: min-content;
+  }
+  .cibc-td-rbc-mufg {
+    width: 70px;
+  }
+}
+
+.box-shadow-list-partnerships {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 200px;
+  height: 300px;
+  img {
+    width: 150px;
+    height: min-content;
+    margin-bottom: 20px;
+  }
+}
+
+.teams-page {
+  h3,
+  h5 {
+    font-family: Din-Regular;
+    color: rgb(87, 86, 86);
+  }
+  .jumbo-team {
+    padding-top: 8px;
+    padding-bottom: 65px;
+    margin-right: 17%;
+    margin-left: 7%;
+    p {
+      font-family: Din-Light;
+      color: white;
+    }
+  }
+  .flip-card-img {
+    width: 75px;
+    height: 75px;
+  }
+  .margin-right-5 {
+    margin-right: 5%;
+  }
+}
+
+.team-selected-msg {
+  a {
+    text-decoration: none;
+  }
+  h4 {
+    font-family: Din-Regular;
+    color: rgb(87, 86, 86);
+  }
+}
+
+.clickable-btn {
+  text-decoration: none;
+  color: inherit;
+}
+
+.clickable-box-investa:hover {
+  background-color: black;
+}
+
+.clickable-box-chapters:hover {
+  background-color: white;
+}
+
+.box-shadow-list-teams-banners-investa {
+  background-color: #0e092b;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 250px;
+  height: 250px;
+}
+
+.box-shadow-list-teams-banners-chapters {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 250px;
+  height: 250px;
+}
+
+.btn-pos-teams-chapters-options {
+  margin-bottom: 10%;
+}
+
+.box-shadow-list-team-card {
+  background-color: aliceblue;
+  -moz-box-shadow: 0 0 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0 0 1px rgb(0, 0, 0);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+  width: 300px;
+  height: 400px;
+  img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
+}
+
+.stock-page,
+.transactional-page,
+.market-research-page {
+  .image-stocks {
+    width: 100vw;
+    height: 40vh;
+  }
+  .image-stocks-overlay {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+  }
+  .image-stocks-overlay::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(22, 22, 81, 0.5); /* Blue with 50% opacity */
+    pointer-events: none;
+  }
+  .stock-overlay {
+    position: absolute;
+    top: 50%; /* Adjust vertical positioning as needed */
+    left: 50%; /* Adjust horizontal positioning as needed */
+    transform: translate(-50%, -50%); /* Center the text */
+  }
+  .stock-overlay h1 {
+    color: white; /* Text color */
+    font-family: Din-Bold;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow */
+  }
+  .stock h3 {
+    font-family: Din-Regular;
+    color: rgb(87, 86, 86);
+  }
+  .body {
+    h3 {
+      font-family: Din-Light;
+    }
+  }
+}
+
+.market-research-page {
+  .jumbo-market-research {
+    img {
+      float: left;
+      padding-right: 20px;
+    }
+    .jumbo-market-text {
+      padding-top: 8px;
+    }
+    p {
+      font-family: Din-Light;
+      color: rgb(141, 140, 140);
+    }
+  }
+  h3 {
+    font-family: Din-Regular;
+    color: rgb(87, 86, 86);
+  }
+}
+
+.transactional-page {
+  .jumbo-transactional {
+    img {
+      float: left;
+      padding-right: 20px;
+    }
+    .jumbo-transactional-text {
+      padding-top: 8px;
+    }
+    p {
+      font-family: Din-Light;
+      color: rgb(141, 140, 140);
+    }
+  }
+  h3 {
+    font-family: Din-Regular;
+    color: rgb(87, 86, 86);
+  }
+}
+
+.jumbo-login {
+  margin-right: 17%;
+  margin-left: 7%;
+  p {
+    font-family: Din-Light;
+    color: white;
+  }
+}
+
+.admin-page {
+  .jumbo-admin {
+    margin-right: 17%;
+    margin-left: 7%;
+    p {
+      font-family: Din-Light;
+      color: rgb(141, 140, 140);
+    }
+  }
+  h3,
+  th {
+    font-family: Din-Regular;
+  }
+  td {
+    font-family: Din-Light;
+  }
+}
+
+.img-with-button {
+  img {
+    width: 500px;
+    height: 300px;
+  }
+}
+
+.joining-body {
+  h3 {
+    font-family: Din-Regular;
+    color: #212529;
+  }
+  p {
+    font-family: Din-Light;
+  }
+}
+
+.sponsor-page {
+  .jumbo-sponsor {
+    margin-right: 17%;
+    margin-left: 7%;
+    h3 {
+      font-family: Din-Regular;
+      color: white;
+    }
+  }
+  h2 {
+    font-family: Din-Regular;
+  }
+  .img-sponsors {
+    width: 450px;
+  }
+  #coop {
+    width: 600px;
+  }
+}
+.events-page {
+  .img-judge {
+    max-width: 200px;
+    padding: 5px 5px 5px 5px;
+  }
+  .image-event {
+    height: 500px;
+    width: auto;
+    max-width: 100%;
+  }
+  .image-event-overlay {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+  }
+  .image-event-overlay::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(22, 22, 81, 0.5); /* Blue with 50% opacity */
+    pointer-events: none;
+  }
+  .event-overlay {
+    position: absolute;
+    top: 50%; /* Adjust vertical positioning as needed */
+    left: 50%; /* Adjust horizontal positioning as needed */
+    transform: translate(-50%, -50%); /* Center the text */
+  }
+  .event-overlay h1 {
+    color: white; /* Text color */
+    font-family: Din-Bold;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow */
+  }
+  h1,
+  h5,
+  h3 {
+    font-family: Din-Regular;
+    color: #212529;
+  }
+  p {
+    font-family: Din-Light;
+  }
+  .row-data {
+    margin-top: 50px;
+  }
+  #westin {
+    width: 550px;
+  }
+  #comp-desc-highlight {
+    background-color: yellow;
+  }
+}
+
+.jumbo-event {
+  margin-right: 17%;
+  margin-left: 7%;
+  h1 {
+    font-family: Din-Regular;
+    color: white;
+  }
+  h5 {
+    font-family: Din-Light;
+    color: white;
+  }
 }

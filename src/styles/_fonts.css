@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Din-Regular;
+  src: url("../assets/fonts/DINNextW1G-Regular.otf");
+}
+@font-face {
+  font-family: Din-Light;
+  src: url("../assets/fonts/DINNextW1G-Light.otf");
+}
+@font-face {
+  font-family: Din-Italic;
+  src: url("../assets/fonts/DINNextW1G-Italic.otf");
+}
+@font-face {
+  font-family: Din-Bold;
+  src: url("../assets/fonts/DINNextW1G-Bold.otf");
+}
